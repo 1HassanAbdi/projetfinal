@@ -1,0 +1,13 @@
+C:\Users\hassa\projetfinal\projetfinal\projetAssurance\projetAssurance\bin\Debug\netcoreapp3.1\projetAssurance.exe
+C:\Users\hassa\projetfinal\projetfinal\projetAssurance\projetAssurance\bin\Debug\netcoreapp3.1\projetAssurance.deps.json
+C:\Users\hassa\projetfinal\projetfinal\projetAssurance\projetAssurance\bin\Debug\netcoreapp3.1\projetAssurance.runtimeconfig.json
+C:\Users\hassa\projetfinal\projetfinal\projetAssurance\projetAssurance\bin\Debug\netcoreapp3.1\projetAssurance.runtimeconfig.dev.json
+C:\Users\hassa\projetfinal\projetfinal\projetAssurance\projetAssurance\bin\Debug\netcoreapp3.1\projetAssurance.dll
+C:\Users\hassa\projetfinal\projetfinal\projetAssurance\projetAssurance\bin\Debug\netcoreapp3.1\projetAssurance.pdb
+C:\Users\hassa\projetfinal\projetfinal\projetAssurance\projetAssurance\obj\Debug\netcoreapp3.1\projetAssurance.csprojAssemblyReference.cache
+C:\Users\hassa\projetfinal\projetfinal\projetAssurance\projetAssurance\obj\Debug\netcoreapp3.1\projetAssurance.AssemblyInfoInputs.cache
+C:\Users\hassa\projetfinal\projetfinal\projetAssurance\projetAssurance\obj\Debug\netcoreapp3.1\projetAssurance.AssemblyInfo.cs
+C:\Users\hassa\projetfinal\projetfinal\projetAssurance\projetAssurance\obj\Debug\netcoreapp3.1\projetAssurance.csproj.CoreCompileInputs.cache
+C:\Users\hassa\projetfinal\projetfinal\projetAssurance\projetAssurance\obj\Debug\netcoreapp3.1\projetAssurance.dll
+C:\Users\hassa\projetfinal\projetfinal\projetAssurance\projetAssurance\obj\Debug\netcoreapp3.1\projetAssurance.pdb
+C:\Users\hassa\projetfinal\projetfinal\projetAssurance\projetAssurance\obj\Debug\netcoreapp3.1\projetAssurance.genruntimeconfig.cache
