@@ -6,5 +6,6 @@ namespace TESTP
 {
     public class TESTP1
     {
+        private string nom;
     }
 }

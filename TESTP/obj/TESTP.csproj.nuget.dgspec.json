@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hassa\\source\\repos\\TESTP\\TESTP\\TESTP.csproj": {}
+    "C:\\Users\\hassa\\source\\repos\\TEST1\\TESTP\\TESTP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hassa\\source\\repos\\TESTP\\TESTP\\TESTP.csproj": {
+    "C:\\Users\\hassa\\source\\repos\\TEST1\\TESTP\\TESTP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hassa\\source\\repos\\TESTP\\TESTP\\TESTP.csproj",
+        "projectUniqueName": "C:\\Users\\hassa\\source\\repos\\TEST1\\TESTP\\TESTP.csproj",
         "projectName": "TESTP",
-        "projectPath": "C:\\Users\\hassa\\source\\repos\\TESTP\\TESTP\\TESTP.csproj",
+        "projectPath": "C:\\Users\\hassa\\source\\repos\\TEST1\\TESTP\\TESTP.csproj",
         "packagesPath": "C:\\Users\\hassa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hassa\\source\\repos\\TESTP\\TESTP\\obj\\",
+        "outputPath": "C:\\Users\\hassa\\source\\repos\\TEST1\\TESTP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hassa\\AppData\\Roaming\\NuGet\\NuGet.Config",
